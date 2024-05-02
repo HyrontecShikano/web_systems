@@ -42,7 +42,7 @@ Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
-Add comment by Masaaki Shikano
+Add comment by Masaaki Shikano at 2.
 </body>
 </html>
 
